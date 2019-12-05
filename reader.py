@@ -38,4 +38,4 @@ data = {'Razão Social':razao_social_nome, 'Cnpj/Cpf':equals_cnpj, 'Inscricao Es
 
 df = pd.DataFrame(data)
 
-df.to_excel("agrVaiComNomes.xls")
+df.to_excel("agrVaiComN.xls")
